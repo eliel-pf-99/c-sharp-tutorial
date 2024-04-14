@@ -4,7 +4,7 @@ namespace HelloNameCLI // namespace declaration.
 {
     class Program // Program class declaration.
     {
-        static void Main(string[] args) // Main method is the entry-point of the application, it's essencial for executing the program.
+        static void Main(string[] args) // Main method is the entry-point of the application, it's essential for executing the program.
         {
             Console.WriteLine("Please enter your name: "); // Print to the console what is inside the quotes. ("") 
 
