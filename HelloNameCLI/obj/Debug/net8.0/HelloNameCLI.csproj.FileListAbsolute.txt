@@ -1,0 +1,15 @@
+C:\Users\Eliel\Documents\c-sharp-tutorial\HelloNameCLI\bin\Debug\net8.0\HelloNameCLI.exe
+C:\Users\Eliel\Documents\c-sharp-tutorial\HelloNameCLI\bin\Debug\net8.0\HelloNameCLI.deps.json
+C:\Users\Eliel\Documents\c-sharp-tutorial\HelloNameCLI\bin\Debug\net8.0\HelloNameCLI.runtimeconfig.json
+C:\Users\Eliel\Documents\c-sharp-tutorial\HelloNameCLI\bin\Debug\net8.0\HelloNameCLI.dll
+C:\Users\Eliel\Documents\c-sharp-tutorial\HelloNameCLI\bin\Debug\net8.0\HelloNameCLI.pdb
+C:\Users\Eliel\Documents\c-sharp-tutorial\HelloNameCLI\obj\Debug\net8.0\HelloNameCLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eliel\Documents\c-sharp-tutorial\HelloNameCLI\obj\Debug\net8.0\HelloNameCLI.AssemblyInfoInputs.cache
+C:\Users\Eliel\Documents\c-sharp-tutorial\HelloNameCLI\obj\Debug\net8.0\HelloNameCLI.AssemblyInfo.cs
+C:\Users\Eliel\Documents\c-sharp-tutorial\HelloNameCLI\obj\Debug\net8.0\HelloNameCLI.csproj.CoreCompileInputs.cache
+C:\Users\Eliel\Documents\c-sharp-tutorial\HelloNameCLI\obj\Debug\net8.0\HelloNameCLI.sourcelink.json
+C:\Users\Eliel\Documents\c-sharp-tutorial\HelloNameCLI\obj\Debug\net8.0\HelloNameCLI.dll
+C:\Users\Eliel\Documents\c-sharp-tutorial\HelloNameCLI\obj\Debug\net8.0\refint\HelloNameCLI.dll
+C:\Users\Eliel\Documents\c-sharp-tutorial\HelloNameCLI\obj\Debug\net8.0\HelloNameCLI.pdb
+C:\Users\Eliel\Documents\c-sharp-tutorial\HelloNameCLI\obj\Debug\net8.0\HelloNameCLI.genruntimeconfig.cache
+C:\Users\Eliel\Documents\c-sharp-tutorial\HelloNameCLI\obj\Debug\net8.0\ref\HelloNameCLI.dll
